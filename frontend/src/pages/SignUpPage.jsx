@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import { Link } from 'react-router'
-import useSignUp from '../hooks/useSignup'
+import { Link } from 'react-router';
+import useSignUp from '../hooks/useSignUp'
 
 const SignUpPage = () => {
 
