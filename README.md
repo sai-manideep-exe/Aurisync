@@ -46,6 +46,7 @@ Aurisync is a modern full-stack MERN chat and video application that connects la
    ```sh
    git clone https://github.com/yourusername/aurisync.git
    cd aurisync
+   ```
 
 2. **Backend Setup:**
 ```sh
