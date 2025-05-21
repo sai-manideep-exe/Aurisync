@@ -63,6 +63,7 @@ npm install
 npm run dev
 ```
 4. **Visit:**
-
+```
 Frontend: http://localhost:5173
 Backend API: http://localhost:5001
+```
