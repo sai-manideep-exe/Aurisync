@@ -1,7 +1,7 @@
 # Aurisync
 
 
-Aurisync is a modern full-stack MERN chat and video application that connects language learners and friends worldwide. It features real-time chat, video calls, friend requests, notifications, and a beautiful, themeable UI.
+Aurisync is a modern full-stack MERN chat and video application that connects language learners and friends worldwide. It features real-time chat, video calls, friend requests, notifications, and a themeable UI.
 
 ---
 
