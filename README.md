@@ -26,7 +26,7 @@ Aurisync is a modern full-stack MERN chat and video application that connects la
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Link
 
 👉 [aurisync.onrender.com](https://aurisync.onrender.com)
 
